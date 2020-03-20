@@ -1,0 +1,21 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [1-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+got here!
+
+nios2-terminal: exiting due to ^C on host
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [1-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+got here!--Performance Counter Report--
+Total Time: 2.71307 seconds  (135653290 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|counter 1      |  100|    2.71282|      135641246|          1|
++---------------+-----+-----------+---------------+-----------+
+execution time: 2.713066
+normalized time: 0.000029
+throughput (pixels/sec): 34499.714844

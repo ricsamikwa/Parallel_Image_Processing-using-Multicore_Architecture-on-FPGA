@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Sep 21 22:32:29 2019
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : custom_cpu
+Top-level Entity Name : custom_processor
+Family : Cyclone IV E
+Total logic elements : 36,612
+    Total combinational functions : 30,340
+    Dedicated logic registers : 20,968
+Total registers : 20968
+Total pins : 204
+Total virtual pins : 0
+Total memory bits : 1,622,244
+Embedded Multiplier 9-bit elements : 28
+Total PLLs : 1
