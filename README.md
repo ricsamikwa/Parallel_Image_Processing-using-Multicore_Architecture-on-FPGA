@@ -1,1 +1,4 @@
-# Parallel_Image_Processing-using-Multicore_Architecture-on-FPGA
+# Optimised Parallel Image Processing using Multicore Architecture on FPGA
+
++Multi-core Nios II platform on Altera FPGA using Qsys, Quartus II and VHDL
++Application to detect patterns in images with very strict real-time deadlines
