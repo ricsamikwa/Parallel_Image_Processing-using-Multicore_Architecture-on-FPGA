@@ -3,3 +3,5 @@
 +Multi-core Nios II platform on Altera FPGA using Qsys, Quartus II and VHDL
 
 +Application to detect patterns in images with very strict real-time deadlines
+
+##Contributors: Eric Samikwa
