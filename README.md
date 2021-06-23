@@ -4,4 +4,4 @@
 
 +Application to detect patterns in images with very strict real-time deadlines
 
-##Contributors: Eric Samikwa
+## Contributors: Eric Samikwa
